@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Help-Me-Write-nr"]
+	path = UBOS-template-Help-Me-Write-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Help-Me-Write-nr
+	branch = main
+[submodule "UBOS-template-Help-Me-Write-ui"]
+	path = UBOS-template-Help-Me-Write-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Help-Me-Write-ui.git
+	branch = main
